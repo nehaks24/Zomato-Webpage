@@ -114,7 +114,8 @@ body {
       #ff512f 100%
       );
       z-index: -3;
-      transform: skewY(-5 deg);
+      transform: skewY(-5deg);
+    }
 
       #pizza_card {
         margin-bottom: 30px;
@@ -132,7 +133,7 @@ body {
   }
 }
 
-@media(min-width:1024px)
+@media(min-width: 1024px)
  {
 .container {
   max-width: 70%
